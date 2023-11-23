@@ -1,1 +1,16 @@
 .env
+.vscode
+package.json
+.npm
+Library/
+node_modules/
+
+.rbenv
+.local.gem
+.bundle
+streams/
+.DS_Store
+.cache
+.yarnrc
+.gitconfig
+yarn.lock
