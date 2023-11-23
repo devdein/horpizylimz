@@ -1,0 +1,23 @@
+current directory: /Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/rbs-2.1.0/ext/rbs_extension
+/Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/bin/ruby --disable\=gems -I/Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/lib/ruby/3.1.0/x86_64-darwin22 -I /private/var/folders/rq/dlwh174n0hx2stn2_3ysscbw0000gn/T/ruby-build.20231123044419.59756.fN68jp/ruby-3.1.2/lib -r ./siteconf20231123-95707-gz6vbl.rb extconf.rb
+creating Makefile
+
+current directory: /Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/rbs-2.1.0/ext/rbs_extension
+make DESTDIR\= clean
+
+current directory: /Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/rbs-2.1.0/ext/rbs_extension
+make DESTDIR\=
+compiling constants.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling ruby_objs.c
+compiling unescape.c
+linking shared-object rbs_extension.bundle
+
+current directory: /Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/rbs-2.1.0/ext/rbs_extension
+make DESTDIR\= install
+/usr/local/bin/ginstall -c -m 0755 rbs_extension.bundle ./.gem.20231123-95707-dgg7e3

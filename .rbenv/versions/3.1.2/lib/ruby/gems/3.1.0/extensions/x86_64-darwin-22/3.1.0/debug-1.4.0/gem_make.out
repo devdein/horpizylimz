@@ -1,0 +1,16 @@
+current directory: /Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debug-1.4.0/ext/debug
+/Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/bin/ruby --disable\=gems -I/Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/lib/ruby/3.1.0/x86_64-darwin22 -I /private/var/folders/rq/dlwh174n0hx2stn2_3ysscbw0000gn/T/ruby-build.20231123044419.59756.fN68jp/ruby-3.1.2/lib -r ./siteconf20231123-95707-sazao8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debug-1.4.0/ext/debug
+make DESTDIR\= clean
+
+current directory: /Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debug-1.4.0/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/local/Music/predominant-planet/horpizylimzfire/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debug-1.4.0/ext/debug
+make DESTDIR\= install
+/usr/local/bin/ginstall -c -m 0755 debug.bundle ./.gem.20231123-95707-u22dnx/debug
