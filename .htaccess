@@ -4,4 +4,6 @@
 
     RewriteRule ^$ /index.html [R,L]
 
+    RedirectMatch 301 ^/stream /stream.html
+
 </IfModule>
